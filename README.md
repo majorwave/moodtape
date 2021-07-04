@@ -27,6 +27,9 @@ Here we would have the update steps for 1.2.4 for people to follow.
  
 ### Added
 - Initial Release
+-  [PROJECTNAME-TTTT](http://tickets.projectname.com/browse/PROJECTNAME-TTTT)
+  PATCH Add logic to runsheet teaser delete to delete corresponding
+  schedule cards.
    
 ### Changed
  
