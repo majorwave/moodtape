@@ -26,7 +26,7 @@ Here we would have the update steps for 1.2.4 for people to follow.
 ## [1.0.0] - 2021-06-19
  
 ### Added
-Initial Release
+- Initial Release
    
 ### Changed
  
