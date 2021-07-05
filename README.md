@@ -8,9 +8,8 @@ All notable changes to this website will be documented in this file.
 - Disclaimer
  
 ### Changed
-- Privacy Policy
-- Terms Of Use
- 
+- Privacy Policy, Terms Of Use
+
 ### Fixed
  
 ## [1.0.1] - 2021-07-01
